@@ -44,3 +44,14 @@ install material UI
 uses Emotion styling engine
 https://mui.com/material-ui/getting-started/installation/
 install font per directions (roboto)
+
+the template sign-in page is sourced from
+https://github.com/mui/material-ui/tree/v5.15.20/docs/data/material/getting-started/templates
+
+We can make a custom theme with
+https://zenoo.github.io/mui-theme-creator/
+
+
+The default project comes with a layout.js
+which I replaced according to
+https://mui.com/material-ui/integrations/nextjs/
